@@ -1,0 +1,1227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"footh",
+				"footer-height-xs"
+			],
+			[
+				"content-",
+				"content-footer-margin-xs"
+			],
+			[
+				"footer-hei",
+				"footer-height-xs"
+			],
+			[
+				"foot",
+				"footer-link"
+			],
+			[
+				"mediu",
+				"mediumgray-light"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"Comm",
+				"commandName"
+			],
+			[
+				"exit",
+				"exit_code"
+			],
+			[
+				"pro",
+				"proc_pipes"
+			],
+			[
+				"streamget",
+				"stream_get_contents"
+			],
+			[
+				"proce",
+				"process_descriptors"
+			],
+			[
+				"escap",
+				"escapeshellcmd"
+			],
+			[
+				"exist",
+				"existingEntry"
+			],
+			[
+				"exis",
+				"existingEntry"
+			],
+			[
+				"norzid",
+				"normalizedId"
+			],
+			[
+				"normid",
+				"normalizedId"
+			],
+			[
+				"norm",
+				"normalizeId"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"argparse",
+				"argparse"
+			],
+			[
+				"V8webSer",
+				"V8webServer"
+			],
+			[
+				"hhw",
+				"hexHalfWidth"
+			],
+			[
+				"hhco",
+				"horizHexCount"
+			],
+			[
+				"base",
+				"baseOffset"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"anos",
+				"announcements"
+			],
+			[
+				"annos",
+				"announcements"
+			],
+			[
+				"anno",
+				"announcement"
+			],
+			[
+				"ano",
+				"announcement"
+			],
+			[
+				"waitEntr",
+				"waitlistEntry"
+			],
+			[
+				"drpd",
+				"admin-waitlist-dropdown"
+			],
+			[
+				"dropdo",
+				"admin-waitlist-dropdown"
+			],
+			[
+				"urlenco",
+				"urlencode"
+			],
+			[
+				"patients",
+				"patientList"
+			],
+			[
+				"appoint",
+				"appointment-dropdown"
+			],
+			[
+				"BaseHTTP",
+				"BaseHTTPRequestHandler"
+			],
+			[
+				"valifun",
+				"validatorFunctionWrapper"
+			],
+			[
+				"Artic",
+				"ArticleAdmin"
+			],
+			[
+				"occlu",
+				"ambient_occlusion_rays"
+			],
+			[
+				"tval",
+				"t_value"
+			],
+			[
+				"supersam",
+				"supersample_level"
+			],
+			[
+				"foc",
+				"focal_distance"
+			],
+			[
+				"Pseuco",
+				"PseudoColour"
+			],
+			[
+				"antabna",
+				"announcementtablename"
+			],
+			[
+				"add",
+				"add_to_waitlist"
+			],
+			[
+				"mindayentr",
+				"mindayentry"
+			],
+			[
+				"nure",
+				"numrecords"
+			],
+			[
+				"studenu",
+				"studentnumber"
+			],
+			[
+				"emad",
+				"emailaddress"
+			],
+			[
+				"padd",
+				"footer-padding"
+			],
+			[
+				"topri",
+				"border-top-right-radius:   (property)"
+			],
+			[
+				"minwi",
+				"item-min-width"
+			],
+			[
+				"uartrx",
+				"uart_rx_buf_fill_ptr"
+			],
+			[
+				"uarrx",
+				"uart_rx_buf_fill_ptr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 61.0,
+		"last_filter": "bash",
+		"selected_items":
+		[
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"rev",
+				"File: Revert"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"set C",
+				"Set Syntax: C"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"set pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"set perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Akshay/Dropbox/Programming/HHAC_website",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/font-awesome"
+	],
+	"file_history":
+	[
+		"/D/Akshay/Dropbox/Programming/HHAC_website/index.html",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/tournaments.html",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/waitlist.html",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/faq.html",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/clubinfo.html",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/coaching.html",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/committee.html",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/site.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/font-awesome/_variables.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/.htaccess",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/404.html",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/config.rb",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/js/site.js",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/js/plugins.js",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/browserconfig.xml",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/css/site.css",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/font-awesome/_icons.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/font-awesome.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/humans.txt",
+		"/E/backup/akshay.txt",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/bootflat/_form.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/bootflat/_global.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/bootflat/_navbar.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/bootflat/_footer.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/_bootstrap-variables.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/css/bootflat.css",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/site.sublime-project",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/bootflat.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/js/bootstrap-sprockets.js",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/js/bootstrap.js",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/bootflat/_checkbox_radio.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/bootflat/_toggle.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/cgi-bin/db.py",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/cgi-bin/api.log",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/cgi-bin/api.py",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/cgi-bin/api.php",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/cgi-bin/command.py",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/cgi-bin/testcgi.py",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/site.sublime-workspace",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/screen.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/js/vendor/modernizr-2.8.3.min.js",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/js/vendor/jquery-1.11.2.js",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/js/main.js",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/styles.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/print.scss",
+		"/D/Akshay/Dropbox/Programming/HHAC_website/sass/ie.scss",
+		"/D/Akshay/Dropbox/Programming/small scripts/mingw-test/main.cpp",
+		"/D/Akshay/Dropbox/Programming/small scripts/mingw-test/makefile",
+		"/D/Akshay/Dropbox/Games/Liberal Crime Squad/save.dat",
+		"/D/Akshay/Dropbox/Notes/mobilicity login.txt",
+		"/D/Akshay/Dropbox/Notes/wind login.txt",
+		"/D/Steam/SteamApps/common/Cities_Skylines/2015-04-11_144716/error.log",
+		"/D/Steam/SteamApps/common/Cities_Skylines/2015-04-11_144716/output_log.txt",
+		"/D/Steam/SteamApps/common/Cities_Skylines/2015-04-11_144338/error.log",
+		"/D/Steam/SteamApps/common/Cities_Skylines/2015-04-11_144254/error.log",
+		"/D/Steam/SteamApps/common/Cities_Skylines/2015-04-11_144316/error.log",
+		"/D/Akshay/Dropbox/Programming/small scripts/variadic-closure/makefile",
+		"/D/Akshay/Dropbox/Programming/small scripts/variadic-closure/main.cpp",
+		"/D/Akshay/Dropbox/Programming/small scripts/variadic-closure/closure.h",
+		"/D/Akshay/Dropbox/Programming/hugC/hugC/hug.cpp",
+		"/D/Akshay/Dropbox/Notes/TD easyweb.txt",
+		"/D/Akshay/Dropbox/Notes/dogecoin.txt",
+		"/C/Users/Akshay/Desktop/exefileFix.txt",
+		"/C/Users/Akshay/AppData/Local/Temp/Equipment Report.txt",
+		"/C/Users/Akshay/Documents/build/v8_codemirror/main.cpp",
+		"/C/Users/Akshay/Documents/build/V8/V8webServer.cpp",
+		"/C/Users/Akshay/Documents/build/COL/COLauto.h",
+		"/C/Users/Akshay/Documents/build/V8/V8webServer.h",
+		"/C/Users/Akshay/Documents/build/VSV/VSVconnection.h",
+		"/C/Users/Akshay/Documents/build/COL/COLclosure.h",
+		"/C/Users/Akshay/Documents/build/COL/COLthreadPool.h",
+		"/C/Users/Akshay/Documents/build/COL/COLrunnable.h",
+		"/C/Users/Akshay/Documents/build/WEB2/WEBserver.h",
+		"/C/Users/Akshay/Documents/build/libv8/test/webkit/comparison-operators-less.js",
+		"/C/Users/Akshay/Documents/build/manual/chameleon_overview.man",
+		"/C/Users/Akshay/Documents/build/COL/COLatomic.cpp",
+		"/C/Users/Akshay/Documents/build/SCK/SCKaddress.h",
+		"/C/Users/Akshay/Documents/build/SCK/SCKconnection.cpp",
+		"/C/Users/Akshay/Documents/build/lib/sre_compile.py",
+		"/C/Users/Akshay/Documents/build/admin/sourcelist",
+		"/C/Users/Akshay/Documents/build/VSV/VSVconnection.cpp",
+		"/C/Users/Akshay/Documents/build/DLP/DLPclient.cpp",
+		"/C/Users/Akshay/Documents/build/DLP/DLPapp.h",
+		"/C/Users/Akshay/Documents/build/DLP/DLPapp.cpp",
+		"/C/Users/Akshay/Documents/build/lua514/dummy_lib.cpp",
+		"/C/Users/Akshay/Documents/build/codegen2/dependlist",
+		"/C/Users/Akshay/Documents/build/DWB/DWBtquLogPlanExport.cpp",
+		"/C/Users/Akshay/Documents/build/DLP/DLPmain.cpp",
+		"/C/Users/Akshay/Documents/build/DBtool/DBtool_setup.nsi",
+		"/C/Users/Akshay/Documents/build/DSN/DSNdataSourceList.cpp",
+		"/C/Users/Akshay/Documents/build/DWB/DWBgetSetLogPurgeSettings.cpp",
+		"/C/Users/Akshay/Documents/build/DB2T/MySqlParameters.xml",
+		"/C/Users/Akshay/Documents/build/llp_controller/main.cpp",
+		"/C/Users/Akshay/Documents/build/llp_controller/makefile",
+		"/C/Users/Akshay/Documents/build/shared_web_docs/js/userrole2/angular/build/app/pages/settings/roles/list/roleListController.js",
+		"/C/Users/Akshay/Documents/build/manual/delphi_doc/CHMnet/property_ICHMllpConnection_RemoteHostName.htm",
+		"/C/Users/Akshay/Documents/build/manual/delphi_doc/CHMnet/method_ICHMllpConnection_TransmitMessage.htm",
+		"/C/Users/Akshay/Documents/build/csharpbridge/LlpConnection.cs",
+		"/C/Users/Akshay/Documents/build/csharpbridge/LlpClient.bmp",
+		"/C/Users/Akshay/Documents/build/LUAT/LUATtestLineParser.cpp",
+		"/C/Users/Akshay/Documents/build/lib/lazyLoader.lua",
+		"/C/Users/Akshay/Documents/build/bzip/LICENSE",
+		"/C/Users/Akshay/Documents/build/active_llp_producer_plugin/main.cpp",
+		"/C/Users/Akshay/Documents/build/active_llp_producer_plugin/makefile",
+		"/C/Users/Akshay/Documents/build/active_llp_producer_plugin/ALPackEngine.cpp",
+		"/C/Users/Akshay/Documents/build/active_llp_producer_plugin/active_llp_producer_plugin.dsp",
+		"/C/Users/Akshay/Documents/build/LLP/LLPprecomp.cpp",
+		"/C/Users/Akshay/Documents/build/LLP/LLPparser.cpp",
+		"/C/Users/Akshay/Documents/build/VSV/VSVclient.cpp",
+		"/C/Users/Akshay/Documents/build/V8/V8main.cpp",
+		"/C/Users/Akshay/Documents/build/SCK/SCKloop.h",
+		"/C/Users/Akshay/Documents/build/SCK/SCKloop.cpp",
+		"/C/Users/Akshay/Documents/build/NODLT/NODLThttp.cpp",
+		"/C/Users/Akshay/Documents/build/NODLT/NODLThello.cpp",
+		"/C/Users/Akshay/Documents/build/NODLT/NODLT.dsp",
+		"/C/Users/Akshay/Documents/build/NODL/NODL.dsp",
+		"/C/Users/Akshay/Documents/build/XML/XMLiosTagFilterNoDelimiter.cpp",
+		"/C/Users/Akshay/Documents/build/DBD/translator_help/net_overview.html",
+		"/C/Users/Akshay/Documents/build/active_llp_producer_plugin/ntmakefile",
+		"/C/Users/Akshay/Documents/build/COL/COLthreadPool.cpp",
+		"/C/Users/Akshay/Documents/build/COL/COLthread.cpp",
+		"/C/Users/Akshay/Documents/build/COLT/COLT.dsp",
+		"/C/Users/Akshay/Documents/build/COL/COLreadable.cpp",
+		"/C/Users/Akshay/Documents/build/bzip/CHANGES",
+		"/C/Users/Akshay/Documents/build/SCK/SCKaddress.cpp",
+		"/C/Users/Akshay/Documents/build/libv8/src/v8dll-main.cc",
+		"/C/Users/Akshay/Documents/build/admin/version",
+		"/C/Users/Akshay/Documents/build/WEB2/WEBserver.cpp"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href=\"/",
+			"-link",
+			"fa-link",
+			"url",
+			"oldbrick",
+			"grapefruit",
+			"$content-footer-margin-md",
+			"$footer-height-md",
+			"$content-footer-margin",
+			"$footer-height",
+			"768px",
+			"footer-menu-item-color",
+			"15",
+			"darken",
+			"footer",
+			"glyp",
+			"grapefruit",
+			"lightgray",
+			"angular",
+			"/Applications/TortoiseHg.app/Contents/Resources/kilnext",
+			"py",
+			"ceil",
+			"pixel_y",
+			"pixel_x",
+			"crosshairs",
+			"labelText",
+			"waitlistEntry",
+			".log",
+			"log",
+			"console",
+			"waitlist",
+			"attachLoginValidators",
+			"https",
+			"url",
+			"SetEnv",
+			"TZ",
+			"surface_position",
+			"return",
+			"elems[15] ",
+			"elems[14] ",
+			"elems[13] ",
+			"elems[12] ",
+			"elems[11] ",
+			"elems[10] ",
+			"elems[9] ",
+			"elems[8] ",
+			"elems[7] ",
+			"elems[6] ",
+			"elems[5] ",
+			"elems[4] ",
+			"elems[3] ",
+			"elems[2] ",
+			"elems[1] ",
+			"elems[0] ",
+			"[0] ",
+			"ret[",
+			"inv[",
+			"m[",
+			"shape.",
+			"cred",
+			"border",
+			"padding",
+			"overlay.png",
+			"#footer",
+			"1000",
+			"min-width",
+			"h1",
+			"span",
+			"header",
+			"h1",
+			"set_rn42",
+			"init_adc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"/hharcher/",
+			"/home/Akshay/Akshay/My Documents/kiln_extensions",
+			"floor",
+			"pixelY",
+			"pixelX",
+			"http",
+			"local_position",
+			"local_normal =",
+			"elems[3][3] ",
+			"elems[3][2] ",
+			"elems[3][1] ",
+			"elems[3][0] ",
+			"elems[2][3] ",
+			"elems[2][2] ",
+			"elems[2][1] ",
+			"elems[2][0] ",
+			"elems[1][3] ",
+			"elems[1][2] ",
+			"elems[1][1] ",
+			"elems[1][0] ",
+			"elems[0][3] ",
+			"elems[0][2] ",
+			"elems[0][1] ",
+			"elems[0][0] ",
+			"elems[0][0]",
+			"[0][0]",
+			"ret.elems[",
+			"ret[",
+			"elems[",
+			"shape->",
+			"#footer-wrapper"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"faq",
+				"faq.html"
+			],
+			[
+				"fontawesomeicons",
+				"sass\\font-awesome\\_icons.scss"
+			],
+			[
+				"font-awesome",
+				"sass\\font-awesome.scss"
+			],
+			[
+				"site.css",
+				"css\\site.css"
+			],
+			[
+				"sitesc",
+				"sass\\site.scss"
+			],
+			[
+				"sitecss",
+				"css\\site.css"
+			],
+			[
+				"form",
+				"sass\\bootflat\\_form.scss"
+			],
+			[
+				"globa",
+				"sass\\bootflat\\_global.scss"
+			],
+			[
+				"nav",
+				"sass\\bootflat\\_navbar.scss"
+			],
+			[
+				"globals",
+				"sass\\bootflat\\_global.scss"
+			],
+			[
+				"bootvar",
+				"sass\\_bootstrap-variables.scss"
+			],
+			[
+				"footer.",
+				"sass\\bootflat\\_footer.scss"
+			],
+			[
+				"footer",
+				"sass\\bootflat\\_footer.scss"
+			],
+			[
+				"bootflat.css",
+				"css\\bootflat.css"
+			],
+			[
+				"global",
+				"sass\\bootflat\\_global.scss"
+			],
+			[
+				"waitlist",
+				"waitlist.html"
+			],
+			[
+				"site",
+				"css\\site.css"
+			],
+			[
+				"fontawe",
+				"sass\\font-awesome.scss"
+			],
+			[
+				"",
+				"sass\\site.scss"
+			],
+			[
+				"bootnav",
+				"sass\\bootflat\\_navbar.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"bottog",
+				"sass\\bootflat\\_toggle.scss"
+			],
+			[
+				"bootglob",
+				"sass\\bootflat\\_global.scss"
+			],
+			[
+				"site.scss",
+				"sass\\site.scss"
+			],
+			[
+				"bootstrapvar",
+				"sass\\_bootstrap-variables.scss"
+			],
+			[
+				"conbf",
+				"config.rb"
+			],
+			[
+				"apiphp",
+				"cgi-bin\\api.php"
+			],
+			[
+				"apipy",
+				"cgi-bin\\api.py"
+			],
+			[
+				"api",
+				"cgi-bin\\api.php"
+			],
+			[
+				"colauto",
+				"COL\\COLauto.h"
+			],
+			[
+				"sckadd",
+				"SCK\\SCKaddress.h"
+			],
+			[
+				"sckcon",
+				"SCK\\SCKconnection.cpp"
+			],
+			[
+				"vsvcon",
+				"VSV\\VSVconnection.cpp"
+			],
+			[
+				"dlp/",
+				"DLP\\DLPclient.cpp"
+			],
+			[
+				"dlpapp",
+				"DLP\\DLPapp.cpp"
+			],
+			[
+				"llpcontrol/main",
+				"llp_controller\\main.cpp"
+			],
+			[
+				"llpprod/main",
+				"active_llp_producer_plugin\\main.cpp"
+			],
+			[
+				"vsvcon.h",
+				"VSV\\VSVconnection.h"
+			],
+			[
+				"sckloop.h",
+				"SCK\\SCKloop.h"
+			],
+			[
+				"sckloop.cpp",
+				"SCK\\SCKloop.cpp"
+			],
+			[
+				"nodlthttp",
+				"NODLT\\NODLThttp.cpp"
+			],
+			[
+				"colclosu",
+				"COL\\COLclosure.h"
+			],
+			[
+				"colthreadpoo",
+				"COL\\COLthreadPool.h"
+			],
+			[
+				"sckloop",
+				"SCK\\SCKloop.h"
+			],
+			[
+				"colrunn",
+				"COL\\COLrunnable.h"
+			],
+			[
+				"v8main",
+				"V8\\V8main.cpp"
+			],
+			[
+				"web2/webser.h",
+				"WEB2\\WEBserver.h"
+			],
+			[
+				"v8web.h",
+				"V8\\V8webServer.h"
+			],
+			[
+				"v8web",
+				"V8\\V8webServer.cpp"
+			],
+			[
+				"v8_code/main",
+				"v8_codemirror\\main.cpp"
+			],
+			[
+				"config.hp",
+				"include\\SFML\\Config.hpp"
+			],
+			[
+				"pixjs",
+				"js\\vendor\\pixi-1.6.1.dev.js"
+			],
+			[
+				"adnewpy",
+				"cgi-bin\\admin_new_announcement.py"
+			],
+			[
+				"adnewano",
+				"admin_new_announcement.php"
+			],
+			[
+				"waiht",
+				"waitlist.html"
+			],
+			[
+				"dbcom",
+				"cgi-bin\\db_common.py"
+			],
+			[
+				"forscs",
+				"sass\\form.scss"
+			],
+			[
+				"forsc",
+				"sass\\form.scss"
+			],
+			[
+				"contscs",
+				"sass\\content.scss"
+			],
+			[
+				"globalsc",
+				"sass\\global-classes.scss"
+			],
+			[
+				"navsc",
+				"sass\\nav.scss"
+			],
+			[
+				"scsc",
+				"sass\\screen.scss"
+			],
+			[
+				"consc",
+				"sass\\content.scss"
+			],
+			[
+				"fotsc",
+				"sass\\footer.scss"
+			],
+			[
+				"formsc",
+				"sass\\form.scss"
+			],
+			[
+				"entysc",
+				"sass\\entypo.scss"
+			],
+			[
+				"inht",
+				"index.html"
+			],
+			[
+				"globsc",
+				"sass\\global-classes.scss"
+			],
+			[
+				"adre",
+				"admin_read_waitlist.php"
+			],
+			[
+				"fosc",
+				"sass\\footer.scss"
+			],
+			[
+				"waht",
+				"waitlist.html"
+			],
+			[
+				"entsc",
+				"sass\\entypo.scss"
+			],
+			[
+				"waitjs",
+				"js\\waitlist_functions.js"
+			],
+			[
+				"adminauh",
+				"cgi-bin\\admin_get_auth_token.py"
+			],
+			[
+				"majs",
+				"js\\main.js"
+			],
+			[
+				"entyposc",
+				"sass\\entypo.scss"
+			],
+			[
+				"php",
+				"admin_check_login.php"
+			],
+			[
+				"adwaitpy",
+				"cgi-bin\\add_to_waitlist.py"
+			],
+			[
+				"getsalt",
+				"cgi-bin\\get_salt.py"
+			],
+			[
+				"adsalpy",
+				"cgi-bin\\admin_get_salt.py"
+			],
+			[
+				"check",
+				"admin_check_login.php"
+			],
+			[
+				"adgetsal",
+				"admin_get_salt.php"
+			],
+			[
+				"entypo",
+				"sass\\entypo.scss"
+			],
+			[
+				"adsal",
+				"cgi-bin\\admin_get_salt.py"
+			],
+			[
+				"db",
+				"cgi-bin\\db_common.py"
+			],
+			[
+				"getsapy",
+				"cgi-bin\\get_salt.py"
+			],
+			[
+				"waitht",
+				"waitlist.html"
+			],
+			[
+				"mah",
+				"template.html"
+			],
+			[
+				"wajs",
+				"js\\waitlist_functions.js"
+			],
+			[
+				"adwaiphp",
+				"add_to_waitlist.php"
+			],
+			[
+				"readanopy",
+				"cgi-bin\\read_announcements.py"
+			],
+			[
+				"readanophp",
+				"read_announcements.php"
+			],
+			[
+				"htac",
+				".htaccess"
+			],
+			[
+				"jpat",
+				"json-generator-pattern.txt"
+			],
+			[
+				"dir",
+				"sample-directions.json"
+			],
+			[
+				"json",
+				"patients.json"
+			],
+			[
+				"botmin",
+				"css\\bootstrap-theme.min.css"
+			],
+			[
+				"model",
+				"website\\models.py"
+			],
+			[
+				"view",
+				"website\\views.py"
+			],
+			[
+				"inde",
+				"templates\\admin\\index.html"
+			],
+			[
+				"cfgrb",
+				"website\\config.rb"
+			],
+			[
+				"mat.cp",
+				"MathUtils.cpp"
+			],
+			[
+				"mathp",
+				"MathUtils.hpp"
+			],
+			[
+				"phohp",
+				"Phong.hpp"
+			],
+			[
+				"pho",
+				"Phong.cpp"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"camh",
+				"Camera.hpp"
+			],
+			[
+				"scnh",
+				"Scene.hpp"
+			],
+			[
+				"imh",
+				"ImageWriter.hpp"
+			],
+			[
+				"phh",
+				"Phong.hpp"
+			],
+			[
+				"cam.c",
+				"Camera.cpp"
+			],
+			[
+				"matcp",
+				"MathUtils.cpp"
+			],
+			[
+				"imhp",
+				"ImageWriter.hpp"
+			],
+			[
+				"im",
+				"ImageWriter.cpp"
+			],
+			[
+				"imcp",
+				"ImageWriter.cpp"
+			],
+			[
+				"licp",
+				"Lights.cpp"
+			],
+			[
+				"ligh",
+				"Lights.hpp"
+			],
+			[
+				"cam.h",
+				"Camera.hpp"
+			],
+			[
+				"mat.c",
+				"MathUtils.cpp"
+			],
+			[
+				"mat.h",
+				"MathUtils.hpp"
+			],
+			[
+				"camhp",
+				"Camera.hpp"
+			],
+			[
+				"camcp",
+				"Camera.cpp"
+			],
+			[
+				"main",
+				"main.cpp"
+			],
+			[
+				"anophp",
+				"HHAC_website\\read_announcements.php"
+			],
+			[
+				"rewaiphp",
+				"HHAC_website\\remove_from_waitlist.php"
+			],
+			[
+				"anpy",
+				"HHAC_website\\read_announcements.py"
+			],
+			[
+				"enty",
+				"HHAC_website\\sass\\entypo.scss"
+			],
+			[
+				"fotht",
+				"HHAC_website\\footer.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Akshay\\Dropbox\\Programming\\libfo\\libfo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

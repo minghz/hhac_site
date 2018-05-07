@@ -1,0 +1,180 @@
+// Import Bootstrap Compass integration
+@import "bootstrap-compass";
+
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+
+// Import Bootstrap for Sass
+@import "bootstrap";
+
+// Finally, import Bootflat
+@import "bootflat";
+
+// Extra fonts
+@import "font-awesome";
+
+html, body {
+  height: 100%;
+}
+
+/* no-js fills */
+/*
+.no-js .navbar:before {
+  content: "";
+  display: inline-block;
+  background: transparent url("../img/logo.png") no-repeat scroll center center / contain;
+  padding: 0.5em 1em;
+}
+.no-js .navbar:after {
+  content: "Please enable JavaScript";
+  display: inline-block;
+}
+
+.no-js .footer:before {
+  content: "";
+  display: inline-block;
+  background: transparent url("../img/logo.png") no-repeat scroll center center / contain;
+  padding: 0.5em 1em;
+}
+.no-js .footer:after {
+  color: #EEEEEE;
+  content: "Please enable JavaScript";
+  display: inline-block;
+}
+*/
+
+nav.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.navbar-brand:before {
+  content: "";
+  background: transparent url("../img/logo.png") no-repeat scroll center center / contain;
+  padding: 0.5em 1em;
+}
+
+div#nav-container {
+  margin-top: 0em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+div.jumbotron {
+  border-radius: 0;
+  background-color: $lightgray-light;
+  background: $lightgray-light url("../img/banner.png") no-repeat scroll center center / cover;
+
+  & > #jumbotron-padder {
+    padding: 6em 0;
+  }
+  & > .container-fluid {
+    background-color: rgba($lightgray-light, 0.8);
+  }
+}
+
+div#content-container p {
+  text-align: justify;
+}
+
+div#content-container {
+  margin-bottom: 2em;
+}
+
+// F.A.Q. anchor helpers
+h4.faq-header > a:before {
+  @extend .fa;
+  @extend .fa-link:before;
+  visibility: hidden;
+}
+
+h4.faq-header:hover > a:before {
+  visibility: visible;
+}
+
+// Sticky footer
+$footer-height-sm: 130px;
+$content-footer-margin-sm: -$footer-height-sm;
+
+$footer-height-xs: 180px;
+$content-footer-margin-xs: -$footer-height-xs;
+
+div.content-wrapper {
+  min-height: 100%;
+  height: auto !important;    /* IE6 */
+  height: 100%;               /* IE6 */
+}
+div.content-wrapper:after {
+  content: "";
+  display: block;
+}
+
+@media(max-width: 768px) {
+  div.content-wrapper {
+    margin: 0 auto $content-footer-margin-xs;
+  }
+
+  footer.footer, footer.footer:after, div.content-wrapper:after {
+    height: $footer-height-xs;
+  }
+  footer.footer:after {
+    height: $footer-height-xs;
+  }
+}
+
+@media(min-width: 768px) {
+  div.content-wrapper {
+    margin: 0 auto $content-footer-margin-sm;
+  }
+
+  footer.footer, footer.footer:after, div.content-wrapper:after {
+    height: $footer-height-sm;
+  }
+}
+
+div.footer-copyright {
+  text-align: right;
+  margin: 1em 1em;
+  color: $darkgray-light;
+}
+
+// Custom footer
+.footer {
+  padding: 1em 0em;
+  font-size: 0.8em;
+  overflow: hidden;
+
+  & > .container {
+    max-width: 600px;
+  }
+
+  & .footer-title {
+    color: $mediumgray-light;
+    margin: 0em;
+  }
+
+  & .footer-links {
+    display: table;
+    & .footer-row {
+      display: table-row;
+
+      & > .footer-description {
+        display: table-cell;
+        color: $mediumgray-light;
+        padding: 0em 1em;
+      }
+      & > .footer-link {
+        display: table-cell;
+        color: $mediumgray-dark;
+      }
+      & > .footer-link:hover,
+      & > .footer-link:active {
+        color: $mediumgray-light;
+      }
+    }
+  }
+
+  & .footer-nojs {
+    color: #BBBBBB;
+  }
+}
