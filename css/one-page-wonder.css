@@ -122,3 +122,8 @@ header.masthead .bg-circle {
 .btn-secondary:focus {
   box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
 }
+
+.waitlist-frame {
+  width: 100%;
+  height: 900px;
+}
